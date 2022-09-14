@@ -1,3 +1,16 @@
+/*NAVEGAÇÃO NAVBAR SUPERIOR*/
+.fixed-navbar {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+/*MAIN DA PÁGINA*/
+.main-content {
+    margin-top: 90px;
+    padding-bottom: 10px;
+}
+
 /*IMAGENS DA INTRODUÇÂO*/
 .intro-img {
     transform: scale(1);
