@@ -28,7 +28,7 @@ As tecnologias utilizadas para desenvolver o portfólio:
 - Utilizando as classes pré-definidas do Bootstrap, consegui aplicar estilos e responsividade à uma página HTML sem a necessidade de se utilizar CSS ou Javascript!
 - Futuramente a aplicação demandará a implementação de folhas de estilo '.css' e scripts '.js', pretendo aprimorar o layout e também adicionar funcionalidades e animações, claro, sem abrir mão da responsividade e praticidade oferecidas pelo Bootstrap!
 ## 🔗 Links  
-- Acesse o Portfólio pelo Link:[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+- Acesse o Portfólio pelo Link:[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pedrohaka.github.io/Portfolio/)
 - Confira também meu perfil no LinkedIn[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohaka)
 
 ## Conclusão
